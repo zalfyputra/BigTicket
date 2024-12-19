@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "role": "Admin",
+      "fullname": "Admin",
+      "email": "admin@example.com",
+      "phone_number": "081234567890",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "role": "User",
+      "fullname": "Angga Aditya",
+      "email": "angga@example.com",
+      "phone_number": "081234567890",
+      "username": "angga",
+      "password": "password"
+    },
+    {
+      "id": "3",
+      "role": "Backend",
+      "fullname": "John Doe",
+      "email": "john@example.com",
+      "phone_number": "081234567890",
+      "username": "john",
+      "password": "password"
+    },
+    {
+      "id": "4",
+      "role": "UIUX",
+      "fullname": "Jane Smith",
+      "email": "jane@example.com",
+      "phone_number": "081234567890",
+      "username": "jane",
+      "password": "password"
+    },
+    {
+      "id": "5",
+      "role": "DevOps",
+      "fullname": "Mark Lee",
+      "email": "mark@example.com",
+      "phone_number": "081234567890",
+      "username": "mark",
+      "password": "password"
+    },
+    {
+      "id": "6",
+      "role": "DataScientist",
+      "fullname": "Emily White",
+      "email": "emily@example.com",
+      "phone_number": "081234567890",
+      "username": "emily",
+      "password": "password"
+    },
+    {
+      "id": "7",
+      "role": "DataAnalyst",
+      "fullname": "Chris Brown",
+      "email": "chris@example.com",
+      "phone_number": "081234567890",
+      "username": "chris",
+      "password": "password"
+    },
+    {
+      "id": "8",
+      "role": "ITSupport",
+      "fullname": "Patricia Green",
+      "email": "patricia@example.com",
+      "phone_number": "081234567890",
+      "username": "patricia",
+      "password": "password"
+    },
+    {
+      "id": "9",
+      "role": "ProductManager",
+      "fullname": "Michael Harris",
+      "email": "michael@example.com",
+      "phone_number": "081234567890",
+      "username": "michael",
+      "password": "password"
+    },
+    {
+      "id": "10",
+      "role": "ProjectManager",
+      "fullname": "Sarah Clark",
+      "email": "sarah@example.com",
+      "phone_number": "081234567890",
+      "username": "sarah",
+      "password": "password"
+    },
+    {
+      "id": "11",
+      "role": "User",
+      "fullname": "David Hall",
+      "email": "david@example.com",
+      "phone_number": "081234567890",
+      "username": "david",
+      "password": "password"
+    },
+    {
+      "id": "12",
+      "role": "Frontend",
+      "fullname": "Olivia King",
+      "email": "olivia@example.com",
+      "phone_number": "081234567890",
+      "username": "olivia",
+      "password": "password"
+    },
+    {
+      "id": "13",
+      "role": "Backend",
+      "fullname": "James Scott",
+      "email": "james@example.com",
+      "phone_number": "081234567890",
+      "username": "james",
+      "password": "password"
+    },
+    {
+      "id": "14",
+      "role": "UIUX",
+      "fullname": "Sophia Adams",
+      "email": "sophia@example.com",
+      "phone_number": "081234567890",
+      "username": "sophia",
+      "password": "password"
+    },
+    {
+      "id": "15",
+      "role": "DevOps",
+      "fullname": "Lucas Martinez",
+      "email": "lucas@example.com",
+      "phone_number": "081234567890",
+      "username": "lucas",
+      "password": "password"
+    },
+    {
+      "id": "16",
+      "role": "DataScientist",
+      "fullname": "Mason Turner",
+      "email": "mason@example.com",
+      "phone_number": "081234567890",
+      "username": "mason",
+      "password": "password"
+    },
+    {
+      "id": "17",
+      "role": "DataAnalyst",
+      "fullname": "Ella Perez",
+      "email": "ella@example.com",
+      "phone_number": "081234567890",
+      "username": "ella",
+      "password": "password"
+    },
+    {
+      "id": "18",
+      "role": "ITSupport",
+      "fullname": "Ethan Wilson",
+      "email": "ethan@example.com",
+      "phone_number": "081234567890",
+      "username": "ethan",
+      "password": "password"
+    },
+    {
+      "id": "19",
+      "role": "ProductManager",
+      "fullname": "Avery Martinez",
+      "email": "avery@example.com",
+      "phone_number": "081234567890",
+      "username": "avery",
+      "password": "password"
+    },
+    {
+      "id": "20",
+      "role": "ProjectManager",
+      "fullname": "Isabella Rodriguez",
+      "email": "isabella@example.com",
+      "phone_number": "081234567890",
+      "username": "isabella",
+      "password": "password"
+    }
+  ]
+}
